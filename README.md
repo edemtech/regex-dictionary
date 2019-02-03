@@ -1,2 +1,3 @@
-# tgTranslitBot
-If you are in problem with russian translit, this bot is for you
+# URL
+/(?:https?:\/\/)?(?:www\.)?twitter\.com\/(?:#!\/)?@?/ [cut cpecial url]
+/(?:https?:\/\/)?(?:www\.)?([^:\/\s]+)\.com\/(?:#!\/)?@?/ [cut any url]
