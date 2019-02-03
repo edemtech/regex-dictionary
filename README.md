@@ -1,4 +1,4 @@
 # URL
 
-[cut cpecial url] /(?:https?:\/\/)?(?:www\.)?twitter\.com\/(?:#!\/)?@?/ 
-[cut any url]  /(?:https?:\/\/)?(?:www\.)?([^:\/\s]+)\.com\/(?:#!\/)?@?/ 
+Cut cpecial url  /(?:https?:\/\/)?(?:www\.)?twitter\.com\/(?:#!\/)?@?/ 
+Cut any url  /(?:https?:\/\/)?(?:www\.)?([^:\/\s]+)\.com\/(?:#!\/)?@?/ 
